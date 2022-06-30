@@ -2,7 +2,7 @@
 ## 基于路径积分的超大类别联机手写中英文字符识别
 
 
-我们即将开源一个支持GB18010-2001字符级（覆盖包含中文简繁体、英文字母、标点符号、数字、常用符号等27744类字符）的任意旋转方向手写文字识别算法，敬请期待....
+我们即将开源一个支持GB18010-2001字符集（覆盖包含中文简繁体、英文字母、标点符号、数字、常用符号等27744类字符）的任意旋转方向手写文字识别算法，敬请期待....
 
 Coming soon ....
  
@@ -14,9 +14,9 @@ Coming soon ....
  
 ### Environment Setup
 
-Jitor
+Jitor：
 
-Pytorch
+Pytorch： 
 
 Python 3.7.5 or a later version is suggested. The package dependencies can be seen in the requirements.txt.
 
